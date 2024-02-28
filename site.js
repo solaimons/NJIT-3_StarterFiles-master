@@ -35,9 +35,9 @@ const vue_app = Vue.createApp({
             movies: [], 
             
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
-            Title: "IMDB + Solaimons' Top 8 Movies",
+            Title: "IMDB + Solaimons' Top 5 Movies",
             owner: " Solaimon",
-            url: ""
+            url: "https://github.com/solaimons/NJIT-3_StarterFiles-master"
       }
     },
       methods: {
